@@ -1,4 +1,4 @@
-# Hello fucking world!
+# Curso em vídeo
  Primeiro repositório do curso de git e github!
 
- Repositório criado para estudo com o Gustavo Guanabara do curso em vídeo.
+ Repositório criado para estudo.
