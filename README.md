@@ -1,2 +1,4 @@
-# Curso em video
- Primeiro repositório do curso de git e github
+# Curso em vídeo
+ Primeiro repositório do curso de git e github!
+
+ Repositório criado para estudo.
